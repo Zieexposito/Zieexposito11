@@ -1,0 +1,26 @@
+{
+  "name": "Duane Higgins",
+  "age": 33,
+  "address": {
+    "street": "Ipipu Path",
+    "city": "Ubdejon",
+    "state": "PA",
+    "zip": "28203"
+  },
+  "contact": {
+    "phone": "(233) 874-2652",
+    "servicePhone": "800738445"
+  },
+  "birthday": "1998-08-25T18:33:03.468Z",
+  "ip": "183.83.24.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Jopvimmad wubkaik kusgoh gik bara ofoesade heijizu cah tawomoabo ucen ba nilbo itocil isa nemudne. Hed ifoarewec jacibon copudi zutuduw bit sevois hasifod zik ho gadeub ku itoti fo. Onhizah damin vulwosuc ri pagjufep ulrat eto hemok zuz ico moameka zagiwbi ov di monegi ehbitov uhja puvpopfut.",
+    "bio": "Avo lowapne wiheg secul ozo use gavem fu fekel soszohvo upo baeji pon cugsebo si ri. Rohku mipi carcu da masuhbu boljasogu kojnupbib fejizwot iki fih vi cu urokvu hoodce difod had ohacami eneegi. Kobo ij zulig tatodat epsoppab gegaka vuja ju timeroomu iwe zibiru tenocaba pi."
+  },
+  "apiKey": "63fe9be95a847fe1d489cd6928472e8b29a9f7549492a8219e200e79610de04b",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
