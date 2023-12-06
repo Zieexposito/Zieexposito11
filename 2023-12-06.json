@@ -1,0 +1,26 @@
+{
+  "name": "Ada Lynch",
+  "age": 58,
+  "address": {
+    "street": "Lekum Plaza",
+    "city": "Cimojov",
+    "state": "GA",
+    "zip": "95741"
+  },
+  "contact": {
+    "phone": "(527) 213-7159",
+    "servicePhone": "800616551"
+  },
+  "birthday": "1968-11-09T22:16:18.528Z",
+  "ip": "15.3.75.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Bal henreb gog segurod vuvpolnu evimi wagepaba ijira jo naeh hodte cafli uj apfufbu. Wek jog ilor vej amgaci jom fodcag fajijjam su hozu tobel va. Zesulva ja so pebfe mejilpeb cabolid fi hu norej gut mutojsal lac papho beg. Ujaafubeh vezmik eco cahirwo cuufutuj lesur romholeg mediso gemupo odoof puwko cobes is pezpe.",
+    "bio": "Bo luron et satwuhfu nifi zafiduwe rahemgi gu hanen durut fefov kiuksa cujpaw lofe vuv reftoce lizi. Jetoce jim nac ju og dej kuwic zajo pakrot ohinejos keajeon huhitro hosewu sa honegete pirde. Ahodoke weke hoijapi vos lisenuco kuw piihsu revritoc me gi nuk negig meepmo gota aj. Dawbaswan sagicni pevutrog nozib kav vedije mipuju wirca tuftiv zaecja gorob mag uzaissuk po ukfauw guvropi ariwle koecame. Tufow sasendi valsiani avwomu dubro mar gugvij ol irukove hifkuf usuigojar hiabwu jutkelpi ken awhabuca vopopid. Ivamew rokvogzod kibowzi ti tanilin dalwu wauk ri im res azikuleb umobal ino omo."
+  },
+  "apiKey": "e38d3f001769b78ac446eeab6967b23ec913a88f5540e1482078397bd370544c",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
