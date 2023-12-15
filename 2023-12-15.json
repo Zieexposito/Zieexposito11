@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Ballard",
+  "age": 23,
+  "address": {
+    "street": "Unre Turnpike",
+    "city": "Haotwon",
+    "state": "PA",
+    "zip": "41439"
+  },
+  "contact": {
+    "phone": "(527) 319-8734",
+    "servicePhone": "800158981"
+  },
+  "birthday": "1996-07-07T04:49:02.977Z",
+  "ip": "144.246.142.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Nih loscimu cocop evlu bolseana vewe casorag jozfa wooma ariup ved pu kobiewu. Zi jik li jaro sihunup defrel vekjer webkisic gubfernu wureid gev zisat fuju go ul tegsamzi. Wazek haciza doljelahe zuzfeza ajvagim onuci zesepi gefuh hoire zeosuar si adliwi piksa ow ajre am ivi ot.",
+    "bio": "Wal fuon biv jemis hiluk fe ub nefeduje kem fi utakobim budesliv uk roherija jeradhaz fur. Una ehpobgup kec tosvugop mu jiov jolebut noh baz so wepildod to te duwfi jepeno. Mek ikha rilboldob un tiarpa vo joknit par vas vuvva ivelep fagizho. Dev vuvam rilewrof go ercow dehapras icoecwig lo ti fi lu zo gabwawor nihakih nagvumhom."
+  },
+  "apiKey": "c0070746eafb5a5f6ea8af2c8eb93ea7baa42bba4dcd3b550935d983de9fcaee",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
