@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Holmes",
+  "age": 40,
+  "address": {
+    "street": "Kummut Loop",
+    "city": "Pesatadi",
+    "state": "AK",
+    "zip": "66384"
+  },
+  "contact": {
+    "phone": "(922) 316-4890",
+    "servicePhone": "800432268"
+  },
+  "birthday": "1971-01-13T04:45:20.984Z",
+  "ip": "56.67.232.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Hakaliv hepizi ba icuatu evires jise kokimo bahep lut welum bobo adanusab gi cuahocof petoela. Es egcafeg vum jonutgim fu ritap wizimo iserafsig nansa dosupeb ewuleb ilbep ew pu dehhih mouno ja. Ropi minag bil le jidhoani teoji ihsisit tefehiz ujpenbur luuh fiunget jiz.",
+    "bio": "Suj ga livcawtav sam foku kubne pi gum ko rohospuz fomorig duvpawlu ceb. Tivvoumo se mikzocok wuzponat enome oku vo ofatoel sa ujiv ru va unlon ezpe pilwaeci ommet jiw. Hus tencul vodriuti sunvig sujfot caorjuw ego lafimid cuputow ligbojno jahogic sarwov wo. Pucros vo ovinip gope namek pe hiklotif tokatoha uf pu med sepgub ugi fekheg missi."
+  },
+  "apiKey": "11de51e29c40433f01d8a1a7bf468616f9e3eb4d21e0001165065d2e0a66abb5",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
