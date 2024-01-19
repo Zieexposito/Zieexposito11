@@ -1,0 +1,26 @@
+{
+  "name": "Katie McKenzie",
+  "age": 22,
+  "address": {
+    "street": "Pabomu Plaza",
+    "city": "Jaajva",
+    "state": "NM",
+    "zip": "79040"
+  },
+  "contact": {
+    "phone": "(963) 233-5676",
+    "servicePhone": "800262817"
+  },
+  "birthday": "1977-05-10T05:59:52.631Z",
+  "ip": "4.47.89.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Kateru to paore uvojeg ofjo gilfa afejozo kopam wohvi dibopul tukemede limaneh abajpon humru ratuh ijojo vuej vazbuvwer. Kadhik omo erzagura ran zi aktif vapobwo su jinbem asmuw meg fufokuah pagba dimaz gebohe. Oda riiku zoez cafba hokhe he ovu tajdam bic he ewnelo ik cozan bonlo. Sis mamis siwi batwof hofvig zarbulesi ticjetar bohlif gomlurca im caijeira uhbo are nuvap bake zojok.",
+    "bio": "Awza ke li efik ceazapoj upnuz ojpek vigede piruive jotof jag duwe cet suwlob nicokmov. Ohe afmov pahra fu cuktude lo la woperelu wit ejutwa muaki bimda hupumub cep fovzisim mogatu nij. Coktam censipik gero rimedeh efo cupojo narvib hijojhan kodifiumo pagjub mom hepobic uve cal cuh gulnovat goliza. Sonuw cic ek aboje vu wocpidhom fizja samueb cif izbub cojoga jejtappac nusmuiz wotompef acevi jeotekoc. Cis neznic izgasfo pafepupa ipe fu wazmo duno guvahge jeh pegowed celjona ipu."
+  },
+  "apiKey": "9e07aea9b754d05ec09361b646d2f9f3c28ce1e777924f8e434b0bb08dfcbf12",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
