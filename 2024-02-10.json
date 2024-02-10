@@ -1,0 +1,26 @@
+{
+  "name": "Russell Robinson",
+  "age": 49,
+  "address": {
+    "street": "Gotih Place",
+    "city": "Juujadu",
+    "state": "AR",
+    "zip": "17832"
+  },
+  "contact": {
+    "phone": "(809) 511-4419",
+    "servicePhone": "800294338"
+  },
+  "birthday": "2003-03-28T11:43:36.249Z",
+  "ip": "112.172.37.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Wijbusi bozo ba muh gutla elejoh bobhi ufado bizvus egogod libihjik joh vuv ep icop. Li muc niwelid potmo wolzez heweoti sulo igogegek gebol cudvonga jug lelelu panfaato hi linuof omifo uzig azrafra. Unigig mar hog italekos benoju gefaoti juk wilkafsef esaob alme bewnorja ek mefaga tufub sumer biabbi.",
+    "bio": "Gur cawasme esomaboz kuumebic ser lip loisu hufoca tucul nodo dahete upapof bemuha tus. Baba bine peaka henowifum mo wefijaj aseiseros we bodofod su mefu zo nupi ci va ulapov ub. Fa zuoc bapte wit suvaj vifokuf goleizo wehsiwev ekidob zomibho vicwujeh mur nojut obezomse ruoran owugihaf wopvev."
+  },
+  "apiKey": "1b9f17015403692a2a7049a045191874f39337e6a917e1d324768ed23d519c94",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
