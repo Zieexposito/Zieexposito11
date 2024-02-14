@@ -1,0 +1,26 @@
+{
+  "name": "Flora Cooper",
+  "age": 63,
+  "address": {
+    "street": "Culot Boulevard",
+    "city": "Risaru",
+    "state": "AZ",
+    "zip": "37246"
+  },
+  "contact": {
+    "phone": "(530) 517-7710",
+    "servicePhone": "800417813"
+  },
+  "birthday": "2006-01-22T16:48:23.634Z",
+  "ip": "198.118.224.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Mef kiw enzu kiwo kanifuf lahcu worsap marav gejtu ke ifhusu epnu hip rodav ve zigjinac hatitu kodoru. Zofragit ocgu umlu pajug titu ja mihhuc tidfugbat buzmul fidbiova bospijam ritkuej rogi nek geri zuztelfe imaifo. Wait ho fo actunig vu tucugit puv di va idnu amimo ihesun pa na. Migu vesa ki huktif vebjazari lofa nerzuhgi pal tibusa wivho hat poh.",
+    "bio": "Gutso vamcu dusikot wam bok wunubu et voguvuz nuguuti kimwezpa dikbuc zu catjauh goz. Zanta tafhoar nusamiga zaz raruhil ziwodig dumugke sel ruz bah lot vawfuc molsies coorbev mam ved iflim jiimi. Bap ge opa ucilga tow vivle kufet micutego mu dawwo di sogawcu don noru jor la jarti."
+  },
+  "apiKey": "a608dd10add746ad62ded06b250f56c125840f9a52bdb3cdaa5f5b23b3f1c289",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
