@@ -1,0 +1,26 @@
+{
+  "name": "Millie Gill",
+  "age": 30,
+  "address": {
+    "street": "Guihu Boulevard",
+    "city": "Osiatir",
+    "state": "WA",
+    "zip": "78456"
+  },
+  "contact": {
+    "phone": "(711) 719-9551",
+    "servicePhone": "800363497"
+  },
+  "birthday": "1991-09-21T13:53:29.834Z",
+  "ip": "155.1.185.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Ov vukmegdon ichar nino lucha zonzucseg loc puehfoc ibko mowviim ma ker sogehze cusbib ilacin dizane. Baju efami kiciwfi geazeigu wicjaksu sabinadef iwneli peclaggar so focaj vacbaama zadhu ecojo. Coilem net une ebovuwsa rinato von vuv makeka ravgu ranijkur ha bola.",
+    "bio": "Woku japzawi okocva loj tut loos coas vabenuda jorsaj lagraz deg keihtis kedakwaw buh zunsuabo. Siro zokec viceupi gu za tilsoc rosdiw vavif vom mod dujvu sasez bo papogvu fohrer poul lilagam degukva. Epmavili lilazu cuile lishib vasun bekweveka radfekib wip rorkusima ze idpaszib ugiri."
+  },
+  "apiKey": "33802f6badeef3a42bf8ac2c65750ebff98b1f6d24a249fef44bfd2933471172",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
