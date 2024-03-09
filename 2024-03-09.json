@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Hill",
+  "age": 56,
+  "address": {
+    "street": "Dire Drive",
+    "city": "Fogakum",
+    "state": "AK",
+    "zip": "05662"
+  },
+  "contact": {
+    "phone": "(770) 564-2260",
+    "servicePhone": "800973628"
+  },
+  "birthday": "1991-02-25T09:55:37.577Z",
+  "ip": "173.35.31.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Epoto uladafzi voz ho muiv ne vuj tottilej mueju ojufenlic agwugeg gujji ladgaro ma kal bewoho zuk. Ef pogbuw ticom nolteda popve hetukle ah kepunmac paleule ta lulloaj ane mu fafba. Esuson enorehih pabrudip tele judsotum bukifwo ititara muek waugu ke rugzossoz rednig tupi fusgecic nam. Dowca gic bovofe cozom ugopanoc habkihos du lazlodac pucrutdob sinoz amo icjofe di pejhu gazef renuz. Nuise tipatar pelci du riletku boveis hatwunu lisrizlac cuzkeki pu ojesi ilrajlu hub.",
+    "bio": "Ar riplok us hedi ejuof bajve goc piwfas zopihtu potgafup la mi woje po. Fojoma cecosoh ehiimkiz huhetgab ug howfavoc idubugoj rifo mommi ose ujri wosegfek ahukehem jepicemal wadudni tovu nu. Jat ficebe tiruknu magagko mujlepe ofdo lo naher la coklo gazger tepnikbo zi. Igtez pe mojan papuwdif lises cec onkohki pe on uc lusfit gi nulop zimacegi ine urpep pombe."
+  },
+  "apiKey": "a7e18dbea1778477b4005dc96d380b18d09c8eaf52f86d1526f434ca6468b60e",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
